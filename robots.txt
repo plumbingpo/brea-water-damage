@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationbrea.com/sitemap.xml
